@@ -1,4 +1,6 @@
 #process goostats
+
+# check for wayne's new comments
 for datafile in "$@"
 do 
 echo ${datafile}
